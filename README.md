@@ -1,4 +1,4 @@
-![MasterHead](./assets/MyGitHubİmage.png)
+![MasterHead](./image/MyGitHubİmage.png)
 
 
 
